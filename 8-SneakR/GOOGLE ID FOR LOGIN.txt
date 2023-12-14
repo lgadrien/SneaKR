@@ -1,0 +1,5 @@
+ID client
+    487203499998-ldr8lbadrf3bauvb0d39d752d5n1388l.apps.googleusercontent.com 
+
+Code secret du client
+    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 
